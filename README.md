@@ -10,13 +10,13 @@
 
 ### The data shows that there are almost always more successful projects than failed ones at any time of year in the theater category. However, as you can see in the image below, during December there are almost as many failed results as successful ones. This indicates that the holidays are not a good time to launch the campaign. May is the launch month where the most campaigns are ultimately successful, so we would recommend a lauch around the springtime.
 
-![Theater Outcomes Based on Launch Date](\Resources\Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes Based on Launch Date](Resources\Theater_Outcomes_vs_Launch.png)
 
 ### **Analysis of Outcomes Based on Goals**
 
 ### Looking at the outcome data based on the campaigns goals likewise reveals some interesting results. Any campaign with a goal over $45,000 seems to be very likely to fail. Projects with less than a $5,000 goal seem to be the most likely to succeed. The data also gives some indication that projects in the range of $35,000 to $45,000 are likely to succeed. However, there are so few data points for this category that this result should not be relied upon. Louise's stated goal of $10,000 falls into the data where about half of the projects succeed and the other half fail.
 
-![Theater Outcomes Based on Goals](\Resources\Outcomes_vs_Goals.png)
+![Theater Outcomes Based on Goals](Resources/Outcomes_vs_Goals.png)
 
 ### **Challenges and Difficulties Encountered**
 
