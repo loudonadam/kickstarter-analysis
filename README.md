@@ -10,7 +10,7 @@
 
 ### The data shows that there are almost always more successful projects than failed ones at any time of year in the theater category. However, as you can see in the image below, during December there are almost as many failed results as successful ones. This indicates that the holidays are not a good time to launch the campaign. May is the launch month where the most campaigns are ultimately successful, so we would recommend a lauch around the springtime.
 
-![Theater Outcomes Based on Launch Date](Resources\Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### **Analysis of Outcomes Based on Goals**
 
